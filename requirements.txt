@@ -1,0 +1,7 @@
+flask
+flask-cors
+requests
+gunicorn
+beautifulsoup4
+google-auth
+supabase
